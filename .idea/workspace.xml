@@ -16,10 +16,20 @@
       <file leaf-file-name="Perceptrons.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Perceptrons.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="436">
-              <caret line="69" column="50" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="50" />
+            <state relative-caret-position="207">
+              <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
               <folding>
-                <element signature="e#19#40#0" expanded="true" />
+                <element signature="e#124#135#0" expanded="true" />
+                <element signature="e#3535#3639#0" expanded="false" />
+                <element signature="e#3651#3755#0" expanded="false" />
+                <element signature="e#3767#3871#0" expanded="false" />
+                <element signature="e#3883#3987#0" expanded="false" />
+                <element signature="e#3999#4104#0" expanded="false" />
+                <element signature="e#4116#4220#0" expanded="false" />
+                <element signature="e#4232#4336#0" expanded="false" />
+                <element signature="e#4348#4452#0" expanded="false" />
+                <element signature="e#4464#4568#0" expanded="false" />
+                <element signature="e#4580#4684#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -129,7 +139,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32925585" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39959225" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -154,10 +164,20 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Perceptrons.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="436">
-          <caret line="69" column="50" lean-forward="false" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="50" />
+        <state relative-caret-position="207">
+          <caret line="151" column="41" lean-forward="false" selection-start-line="151" selection-start-column="41" selection-end-line="151" selection-end-column="41" />
           <folding>
-            <element signature="e#19#40#0" expanded="true" />
+            <element signature="e#124#135#0" expanded="true" />
+            <element signature="e#3535#3639#0" expanded="false" />
+            <element signature="e#3651#3755#0" expanded="false" />
+            <element signature="e#3767#3871#0" expanded="false" />
+            <element signature="e#3883#3987#0" expanded="false" />
+            <element signature="e#3999#4104#0" expanded="false" />
+            <element signature="e#4116#4220#0" expanded="false" />
+            <element signature="e#4232#4336#0" expanded="false" />
+            <element signature="e#4348#4452#0" expanded="false" />
+            <element signature="e#4464#4568#0" expanded="false" />
+            <element signature="e#4580#4684#0" expanded="false" />
           </folding>
         </state>
       </provider>
