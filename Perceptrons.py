@@ -34,3 +34,14 @@ def feed_forward(neural_network, input_vector):
         # then the input to the next layer is the output of this one
         input_vector = output
     return outputs
+
+xor_network = [#hidden layer
+                [[20, 20, -30], # 'and' neuron
+                 [20, 20, -10]], # 'or' neuron
+                #output layer
+                [[-60, 60, -30]]] # '2nd input but not 1st input' neuron
+for x in[0, 1]:
+    for y in [0, 1]:
+        # feed_forward produces the outputs of every neuron
+        # feed_forward[-1] is the outputs of the output-layer neurons
+        print(str(x)+str(y)+str(feed_forward(xor_network,[x, y])[-1]))
